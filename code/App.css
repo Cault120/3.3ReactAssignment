@@ -1,20 +1,15 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-color: lavender;
-  padding: 50px;
 }
 
 button {
   font-size: 2rem;
+  width: 4rem;
   margin: 1rem;
-  padding: 18px;
+  padding: 0.5rem;
 }
 
 span {
   font-size: 1.5rem;
-}
-
-button.reset {
-  width: 120px;
 }
